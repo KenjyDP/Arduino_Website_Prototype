@@ -1,2 +1,1 @@
-# Arduino_Website_Prototype
-Prototype of my Arduino Website
+https://kenjydp.github.io/Arduino_Website_Prototype/
